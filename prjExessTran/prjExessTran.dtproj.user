@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <StartObjectID>Unzip_and_Upload.dtsx</StartObjectID>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>{0F24A3F1-D302-4024-AAA8-A79A16F1BA84}</Id>
+            <Name>{0F24A3F1-D302-4024-AAA8-A79A16F1BA84}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARXf9IloYt0Wmqax8yCa41wAAAABOAAAAewAwAEYAMgA0AEEAMwBGADEALQBEADMAMAAyAC0ANAAwADIANAAtAEEAQQBBADgALQBBADcAOQBBADEANgBGADEAQgBBADgANAB9AAAAA2YAAKgAAAAQAAAA/eJVZus+8gIdpK0rYYeuvgAAAAAEgAAAoAAAABAAAABA9UR1yh3ex4vU0FnoPDpDCAAAAGIynN8pkn7PFAAAAG3ugirwJFGJQSSjuQ4DF63njiOw</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>{0F24A3F1-D302-4024-AAA8-A79A16F1BA84}</Id>
+            <Name>{0F24A3F1-D302-4024-AAA8-A79A16F1BA84}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARXf9IloYt0Wmqax8yCa41wAAAABOAAAAewAwAEYAMgA0AEEAMwBGADEALQBEADMAMAAyAC0ANAAwADIANAAtAEEAQQBBADgALQBBADcAOQBBADEANgBGADEAQgBBADgANAB9AAAAA2YAAKgAAAAQAAAAWjELk6tCuvPmAldZ6lQn3AAAAAAEgAAAoAAAABAAAAA4rl6BRWBvoC4Hbcg//xKYEAAAAN1q7EXsgjmUcw4EdV3MJjwUAAAAbcgOx+aDLWvzdu7FWKW/X+PY9VM=</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <OfflineMode>false</OfflineMode>
+        <ProgressReporting>true</ProgressReporting>
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>
